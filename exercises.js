@@ -46,5 +46,5 @@ function vowelCount(str) {
 
     //     }
     // },0)
-}
+
 
